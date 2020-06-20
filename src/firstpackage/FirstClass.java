@@ -9,7 +9,9 @@ public class FirstClass {
 
 		
 
-		System.out.println("2. kez conflict yapiyoruz");
+
+		System.out.println("we want to make the second conflict");
+
 
 		System.out.println("First Commit from remote repository");
 
